@@ -2,9 +2,9 @@
 
 This repo contains three notebooks pertaining to the chapter 'Uncertainty' in AI for Business, from Data to Decisions:
 
-OLS_ConfidenceIntervals.ipynb
-RandomForest_AccRej.ipynb
-NN_AccRej.ipynb
+`OLS_ConfidenceIntervals.ipynb`
+`RandomForest_AccRej.ipynb`
+`NN_AccRej.ipynb`
 
 Before running the code:
 
@@ -16,10 +16,10 @@ Before running the code:
 ### Create an environment (if not already created)
 `python -m venv .venv`
 
-### Activate virtual environment
+### Activate the environment
 `source .venv/bin/activate`
 
-### Upgrade pip first (optional but recommended)
+### Upgrade pip (optional but recommended)
 `pip install --upgrade pip`
 
 ### Install/update packages from requirements.txt
